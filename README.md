@@ -1,4 +1,5 @@
--Bagrat
--24y.o. Dev
--Enthusiast
--Cooperation - arutyunovbagrat@gmail.com
+-Bagrat<br />
+-24y.o. Dev<br />
+-Enthusiast<br />
+-Cooperation<br /> 
+- arutyunovbagrat@gmail.com
